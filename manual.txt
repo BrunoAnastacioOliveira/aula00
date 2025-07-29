@@ -1,0 +1,16 @@
+codigos cmd 
+
+C:\Users\Alunos\Desktop\mobile>npx create-expo-app@latest appaula00 --template
+
+Blank 
+
+
+C:\Users\Alunos\Desktop\mobile> cd appaula00
+
+C:\Users\Alunos\Desktop\mobile\appaula00>dir
+
+C:\Users\Alunos\Desktop\mobile\appaula00>code .
+
+
+
+
